@@ -1,0 +1,13 @@
+{
+  "record": "sr:sha256:2c91e35d1b07f798c462b2bb9fb980a2dde2af08ef70ca059edb966fb8cc663f",
+  "chunks": [
+    {
+      "id": "sc:sha256:11732215108a127f9aa3868083c4d2d0bcd1a1393b1eec7d8ba9b35e9e065e9b",
+      "text": "Digitizing a book makes it searchable and reduces how often the original is handled. A good scan captures each page as a lossless image at a known resolution, with notes about the equipment and settings used, so later readers can trust what they see. Start with the books that are most requested or most at risk, and keep the originals stored well after scanning."
+    },
+    {
+      "id": "sc:sha256:29dff66374c51a1b5fa5e064e43c8945cdcbdf1c24601e57e8d3645f96b585e1",
+      "text": "Name files so they sort in page order and never collide. A simple pattern uses the collection, the item number, and a zero-padded page number:\n\n```\nlib-0042-p0001.tiff\nlib-0042-p0002.tiff\nlib-0042-p0003.tiff\n```\n\nKeep a checksum for every file, so copies made years later can be confirmed identical to the first scan."
+    }
+  ]
+}

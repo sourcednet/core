@@ -1,0 +1,24 @@
+{
+  "spec": "sourced/1",
+  "publisher": "example-library.test",
+  "keys": [
+    {
+      "id": "2026a",
+      "alg": "ed25519",
+      "public_key": "u/he6dMVNa5+HYPhgwoNzJbJaPg/517+ymwbDhmTd9g=",
+      "status": "active"
+    },
+    {
+      "id": "2025a",
+      "alg": "ed25519",
+      "public_key": "QMX0/yg676d6fOCtYaOqrvmFLt0zLOuXP88cJx+VGZU=",
+      "status": "retired"
+    },
+    {
+      "id": "2024x",
+      "alg": "ed25519",
+      "public_key": "AiAmD/XZU6z2EgzsKe+UMKJE/9eoTnTvlj6l1/WdTXY=",
+      "status": "revoked"
+    }
+  ]
+}

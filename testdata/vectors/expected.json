@@ -1,0 +1,39 @@
+{
+  "publisher": "example-library.test",
+  "key_seeds": {
+    "2024x": "sourced.net test vector key 2024x",
+    "2025a": "sourced.net test vector key 2025a",
+    "2026a": "sourced.net test vector key 2026a"
+  },
+  "chunk_params": {
+    "min": 150,
+    "target": 800,
+    "max": 2000
+  },
+  "records": {
+    "book-care-v1": {
+      "id": "sr:sha256:2feeb6cff0cd72862f98b1083feb173fa9b2a36515e23c07c3f429b900954446",
+      "url": "https://example-library.test/guides/book-care",
+      "key_id": "2026a",
+      "chunks": 5,
+      "state": "corrected"
+    },
+    "book-care-v2": {
+      "id": "sr:sha256:5f1da2a68be3b4327ee87e30293a99ad469af11f756738751b6e9ef9b2f74dcd",
+      "url": "https://example-library.test/guides/book-care",
+      "key_id": "2026a",
+      "chunks": 5,
+      "state": "current"
+    },
+    "digitization-v1": {
+      "id": "sr:sha256:2c91e35d1b07f798c462b2bb9fb980a2dde2af08ef70ca059edb966fb8cc663f",
+      "url": "https://example-library.test/guides/digitization",
+      "key_id": "2025a",
+      "chunks": 2,
+      "state": "current"
+    }
+  },
+  "manifest_generated_at": "2026-09-30T09:05:00Z",
+  "example_citation": "https://example-library.test/.well-known/sourced/records/2feeb6cff0cd72862f98b1083feb173fa9b2a36515e23c07c3f429b900954446.json#chunk=5bc537c73051ad671352455a462505ff8018ec1bc51cbce3aea2aa66db2ddae8",
+  "chunks_unchanged_by_correction": 4
+}

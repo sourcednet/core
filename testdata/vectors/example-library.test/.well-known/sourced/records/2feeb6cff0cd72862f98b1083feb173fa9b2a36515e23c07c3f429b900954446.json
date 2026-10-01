@@ -1,0 +1,51 @@
+{
+  "spec": "sourced/1",
+  "id": "sr:sha256:2feeb6cff0cd72862f98b1083feb173fa9b2a36515e23c07c3f429b900954446",
+  "publisher": "example-library.test",
+  "url": "https://example-library.test/guides/book-care",
+  "title": "Caring for old books",
+  "published_at": "2026-09-28T10:00:00Z",
+  "language": "en",
+  "media_type": "text/markdown",
+  "chunks": [
+    {
+      "id": "sc:sha256:6d760a25d50c5205340cb19fd1ba8175607f5ffa24f642cd895f7ff332b0d66d",
+      "section": [
+        "Caring for old books"
+      ]
+    },
+    {
+      "id": "sc:sha256:904add3f944d5ba2af04a1474fce07816030ed5cddc2c2f539cec8c612236c6a",
+      "section": [
+        "Caring for old books",
+        "Light"
+      ]
+    },
+    {
+      "id": "sc:sha256:5bc537c73051ad671352455a462505ff8018ec1bc51cbce3aea2aa66db2ddae8",
+      "section": [
+        "Caring for old books",
+        "Humidity"
+      ]
+    },
+    {
+      "id": "sc:sha256:3e51d7b0f71e0e6bd9634acd3f408d868ede79c0caedbe6ab9af27a4c22e3a74",
+      "section": [
+        "Caring for old books",
+        "Humidity"
+      ]
+    },
+    {
+      "id": "sc:sha256:45902c0e9a8e653304b595500b8c53be8278bc8bc804f98f16abbbce69e7334b",
+      "section": [
+        "Caring for old books",
+        "Handling"
+      ]
+    }
+  ],
+  "license": "https://example-library.test/license.xml",
+  "sig": {
+    "key_id": "2026a",
+    "value": "ed25519:dYYZdmazeArwGQ9HPKA4X1a3L9bS+R+lwk3euuvDwBWBo+PuMQWTZmQjNPlw8A+NQeoTonM75dxYaqa/98/wDw=="
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "spec": "sourced/1",
+  "id": "sr:sha256:2c91e35d1b07f798c462b2bb9fb980a2dde2af08ef70ca059edb966fb8cc663f",
+  "publisher": "example-library.test",
+  "url": "https://example-library.test/guides/digitization",
+  "title": "Digitizing a collection",
+  "published_at": "2025-06-01T08:30:00Z",
+  "language": "en",
+  "media_type": "text/markdown",
+  "chunks": [
+    {
+      "id": "sc:sha256:11732215108a127f9aa3868083c4d2d0bcd1a1393b1eec7d8ba9b35e9e065e9b",
+      "section": [
+        "Digitizing a collection"
+      ]
+    },
+    {
+      "id": "sc:sha256:29dff66374c51a1b5fa5e064e43c8945cdcbdf1c24601e57e8d3645f96b585e1",
+      "section": [
+        "Digitizing a collection",
+        "File naming"
+      ]
+    }
+  ],
+  "license": "https://example-library.test/license.xml",
+  "sig": {
+    "key_id": "2025a",
+    "value": "ed25519:OnxeQ3nLMn6izBhd1/6Nk+V3StyTMMJTsdTBHiSE5ppQS2AzFMKkaOVllQtiBKPqAB/WzjR2HlbFh4o3k1G0DQ=="
+  }
+}

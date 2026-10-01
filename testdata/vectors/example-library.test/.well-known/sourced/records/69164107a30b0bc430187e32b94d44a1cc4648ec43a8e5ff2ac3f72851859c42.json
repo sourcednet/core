@@ -1,0 +1,47 @@
+{
+  "spec": "sourced/1",
+  "id": "sr:sha256:69164107a30b0bc430187e32b94d44a1cc4648ec43a8e5ff2ac3f72851859c42",
+  "publisher": "example-library.test",
+  "url": "https://example-library.test/guides/book-care",
+  "title": "Caring for old books",
+  "published_at": "2026-09-30T09:00:00Z",
+  "language": "en",
+  "media_type": "text/markdown",
+  "chunks": [
+    {
+      "id": "sc:sha256:6d760a25d50c5205340cb19fd1ba8175607f5ffa24f642cd895f7ff332b0d66d",
+      "section": [
+        "Caring for old books"
+      ]
+    },
+    {
+      "id": "sc:sha256:904add3f944d5ba2af04a1474fce07816030ed5cddc2c2f539cec8c612236c6a",
+      "section": [
+        "Caring for old books",
+        "Light"
+      ]
+    },
+    {
+      "id": "sc:sha256:e161a8cad84c5b147a89af82f6f80431babe92d1b096d99980d0a673f57a3651",
+      "section": [
+        "Caring for old books",
+        "Humidity"
+      ]
+    },
+    {
+      "id": "sc:sha256:45902c0e9a8e653304b595500b8c53be8278bc8bc804f98f16abbbce69e7334b",
+      "section": [
+        "Caring for old books",
+        "Handling"
+      ]
+    }
+  ],
+  "supersedes": "sr:sha256:507187c6bfe7afce69d80c278faf004e4947f67f92f003dbcbd23b1b3a181cec",
+  "change": "correction",
+  "note": "Corrected the recommended relative humidity from 60–70% to 40–50%.",
+  "license": "https://example-library.test/license.xml",
+  "sig": {
+    "key_id": "2026a",
+    "value": "ed25519:X8z4EX88n8ABu5Ak6SKGnntLrGQHIBu76vMlUM0xAtgelH3C8VmH17UGvPQWL2rMXNr+E8lYoD0u5ZtHRpOCAw=="
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "spec": "sourced/1",
+  "publisher": "example-library.test",
+  "generated_at": "2026-09-30T09:05:00Z",
+  "entries": {
+    "https://example-library.test/guides/book-care": "sr:sha256:5f1da2a68be3b4327ee87e30293a99ad469af11f756738751b6e9ef9b2f74dcd",
+    "https://example-library.test/guides/digitization": "sr:sha256:2c91e35d1b07f798c462b2bb9fb980a2dde2af08ef70ca059edb966fb8cc663f"
+  },
+  "sig": {
+    "key_id": "2026a",
+    "value": "ed25519:AICBYzXk2qk20wjJLBlsNY7k+6da/AkWTTzO+32TcAduS/vmYWNa6CEBWLl8mq3PdDwFoQ3JyNR1TltjOD5lBA=="
+  }
+}
