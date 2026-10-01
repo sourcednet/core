@@ -9,11 +9,10 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      # The project and its siblings side by side, as go.mod's replace
-      # directives expect, until the siblings are published.
       - uses: actions/checkout@v4
-        with: {path: core}
       - uses: actions/setup-go@v5
-        with: {go-version-file: core/go.mod}
+        with: {go-version-file: go.mod}
+      # Sibling projects come from their tagged versions on GitHub.
+      - run: go mod download
       - run: make lint test build
-        working-directory: core
+        env: {GOFLAGS: -mod=mod}
